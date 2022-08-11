@@ -1,0 +1,297 @@
+C:\Users\sıla\source\repos\den-2\den-2\bin\Debug\den-2.exe.config
+C:\Users\sıla\source\repos\den-2\den-2\bin\Debug\den-2.exe
+C:\Users\sıla\source\repos\den-2\den-2\bin\Debug\den-2.pdb
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den_2.Form1.resources
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den_2.Form2.resources
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den_2.Form3.resources
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den_2.Properties.Resources.resources
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den-2.exe
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den-2.pdb
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den_2.Form4.resources
+C:\Users\sıla\source\repos\den-2\den-2\obj\Debug\den_2.Form5.resources
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\bin\Debug\den-2.exe.config
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\bin\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\bin\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den_2.Form1.resources
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den_2.Form2.resources
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den_2.Form3.resources
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den_2.Form4.resources
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den_2.Form5.resources
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den_2.Properties.Resources.resources
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\den-2\den-2\obj\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\bin\Debug\den-2.exe.config
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\bin\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\bin\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den_2.Properties.Resources.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den_2.Giris.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den_2.Temsilci.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den_2.BankaMuduru.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den_2.Müsteri.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den_2.Listele.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankManagementSystem\den-2\obj\Debug\den_2.KayitOl.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\bin\Debug\den-2.exe.config
+D:\Windows 10\desktop\bankManagementSystem\den-2\bin\Debug\den-2.exe
+D:\Windows 10\desktop\bankManagementSystem\den-2\bin\Debug\den-2.pdb
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.BankaMuduru.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.KayitOl.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.Temsilci.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.Listele.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.Müsteri.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.Giris.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.Properties.Resources.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den-2.exe
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den-2.pdb
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.kur.resources
+D:\Windows 10\desktop\bankManagementSystem\den-2\obj\Debug\den_2.mguncelle.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\bin\Debug\den-2.exe.config
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\bin\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\bin\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.BankaMuduru.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.KayitOl.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.kur.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.mguncelle.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.Temsilci.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.Listele.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.Müsteri.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.Giris.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.Properties.Resources.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSila\den-2\obj\Debug\den_2.HesapSilme.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\bin\Debug\den-2.exe.config
+D:\Windows 10\desktop\bankaYönetim\den-2\bin\Debug\den-2.exe
+D:\Windows 10\desktop\bankaYönetim\den-2\bin\Debug\den-2.pdb
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.BankaMuduru.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.HesapSilme.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.KayitOl.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.mguncelle.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.Temsilci.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.Giris.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.Properties.Resources.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den-2.exe
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\bin\Debug\den-2.exe.config
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\bin\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\bin\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.BankaMuduru.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.HesapSilme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.KayitOl.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.mguncelle.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.Temsilci.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.Giris.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.Properties.Resources.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.ParaÇekme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.ParaYatırma.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.MusteriBilgiGuncelle_T.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.MusteriBilgiGuncelle_T.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.ParaYatırma.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.ParaÇekme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.Musteri.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.MusteriEkle_T.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.MusteriEkle_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.MusteriListele_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.Personelİşlemleri_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.Kur_BM.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.Kur_BM.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.MusteriEkle_T.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.MusteriEkle_BM.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.Personelİşlemleri_BM.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.MusteriListele_BM.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.Musteri.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.hesapAcma.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.hesapAcma.resources
+D:\Windows 10\desktop\bankaYönetim\den-2\obj\Debug\den_2.musteriTalep.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.musteriTalep.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaYönetim\den-2\obj\Debug\den_2.ParaTransferi.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.BankaMuduru.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.hesapAcma.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.HesapSilme.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.KayitOl.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.Kur_BM.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.mguncelle.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.MusteriEkle_T.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.MusteriBilgiGuncelle_T.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.MusteriEkle_BM.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.musteriTalep.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.ParaTransferi.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.ParaYatırma.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.ParaÇekme.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.Personelİşlemleri_BM.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.Temsilci.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.MusteriListele_BM.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.Musteri.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.Giris.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den_2.Properties.Resources.resources
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den-2.exe
+D:\Windows 10\desktop\cokaglamak\den-2\obj\Debug\den-2.pdb
+D:\Windows 10\desktop\cokaglamak\den-2\bin\Debug\den-2.exe.config
+D:\Windows 10\desktop\cokaglamak\den-2\bin\Debug\den-2.exe
+D:\Windows 10\desktop\cokaglamak\den-2\bin\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\bin\Debug\den-2.exe.config
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\bin\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\bin\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.BankaMuduru.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.hesapAcma.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.HesapSilme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.KayitOl.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.Kur_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.mguncelle.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.MusteriEkle_T.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.MusteriBilgiGuncelle_T.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.MusteriEkle_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.musteriTalep.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.ParaTransferi.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.ParaYatırma.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.ParaÇekme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.Personelİşlemleri_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.Temsilci.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.MusteriListele_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.Musteri.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.Giris.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den_2.Properties.Resources.resources
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\cokaglamak\den-2\obj\Debug\den-2.pdb
+D:\Windows 10\desktop\bankaSistemi\den-2\bin\Debug\den-2.exe.config
+D:\Windows 10\desktop\bankaSistemi\den-2\bin\Debug\den-2.exe
+D:\Windows 10\desktop\bankaSistemi\den-2\bin\Debug\den-2.pdb
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.BankaMuduru.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.hesapAcma.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.HesapSilme.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.KayitOl.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.Kur_BM.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.mguncelle.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.MusteriEkle_T.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.MusteriBilgiGuncelle_T.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.MusteriEkle_BM.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.musteriTalep.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.ParaTransferi.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.ParaYatırma.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.ParaÇekme.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.Personelİşlemleri_BM.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.Temsilci.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.MusteriListele_BM.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.Musteri.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.Giris.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.Properties.Resources.resources
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den-2.exe
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den-2.pdb
+D:\Windows 10\desktop\bankaSistemi\den-2\obj\Debug\den_2.krediTalep.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\bin\Debug\den-2.exe.config
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\bin\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\bin\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.BankaMuduru.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.hesapAcma.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.HesapSilme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.KayitOl.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.krediTalep.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.Kur_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.mguncelle.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriEkle_T.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriBilgiGuncelle_T.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriEkle_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.ParaTransferi.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.ParaYatırma.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.ParaÇekme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.Personelİşlemleri_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.Temsilci.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriListele_BM.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.Musteri.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.Giris.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.Properties.Resources.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den-2.exe
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den-2.pdb
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\bin\Debug\den-2.exe.config
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\bin\Debug\den-2.exe
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\bin\Debug\den-2.pdb
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.AssemblyReference.cache
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.SuggestedBindingRedirects.cache
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.BankaMuduru.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.hesapAcma.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.HesapSilme.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.KayitOl.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.krediTalep.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.Kur_BM.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.mguncelle.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriEkle_T.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriBilgiGuncelle_T.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriEkle_BM.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.ParaTransferi.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.ParaYatırma.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.ParaÇekme.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.Personelİşlemleri_BM.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.Temsilci.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriListele_BM.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.Musteri.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.Giris.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.Properties.Resources.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.GenerateResource.cache
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den-2.csproj.CoreCompileInputs.cache
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den-2.exe
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den-2.pdb
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.MTalepListele_T.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.MTalepListele_T.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.krediOdeme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.krediOdeme.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.HOSGELDİN.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.HOSGELDİN.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.İşlemGörüntüle.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.İşlemGörüntüle_T.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriDurum_T.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.MusteriDurum_T.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.İşlemGörüntüle.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.İşlemGörüntüle_T.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.AylıkÖzet_M.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.BankaGenelDurum.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.AylıkÖzet_M.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.BankaGenelDurum.resources
+D:\Windows 10\desktop\bankaSistemiYeni\den-2\obj\Debug\den_2.deadlock.resources
+C:\Users\bcebe\OneDrive\Masaüstü\bankaSistemiYeni\den-2\obj\Debug\den_2.deadlock.resources
